@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps first project</h1>
+<h1>For QA:DevOps first project</h1>
 
 <?php
 echo "final version 1.0";
